@@ -1,3 +1,5 @@
+package com.lk.netty.test;
+
 public class SubThread extends Thread{
 
     private RequestFuture request;
